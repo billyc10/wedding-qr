@@ -16,7 +16,7 @@ Sean Stephens,Table 2
 Rebecca Luton,Table 2
 Sarah Henderson,Table 2
 Aidan Boase,Table 2
-James Steendham,Table 2
+James Steendam,Table 2
 Sydney Braunfeld,Table 2
 Adam S,Table 2
 Vanessa Nguyen,Table 2
