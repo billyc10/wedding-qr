@@ -1,0 +1,16 @@
+{
+  "name": "wedding-qr",
+  "version": "1.0.0",
+  "description": "Static HTML site for wedding QR codes",
+  "private": true,
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}

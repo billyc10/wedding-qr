@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#ffffff" />
+    <title>Find Your Table · Amanda & Billy</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Pinyon+Script&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <main class="app">
+      <header class="header">
+        <p class="couple">Amanda &amp; Billy</p>
+        <h1>Please find your seat</h1>
+        <p class="lede">Enter your full name as it appears on your invitation.</p>
+      </header>
+
+      <form id="lookup-form" class="lookup-form" autocomplete="off">
+        <div class="field">
+          <!-- <label class="field-label" for="guest-name">Full name</label> -->
+          <div class="combobox">
+            <input
+              id="guest-name"
+              name="name"
+              type="text"
+              inputmode="text"
+              autocapitalize="words"
+              autocomplete="off"
+              autocorrect="off"
+              spellcheck="false"
+              placeholder="e.g. Alice Johnson"
+              role="combobox"
+              aria-autocomplete="list"
+              aria-expanded="false"
+              aria-controls="suggestions"
+              required
+            />
+            <ul id="suggestions" class="suggestions" role="listbox" hidden></ul>
+          </div>
+        </div>
+        <button type="submit" class="btn">Find my table</button>
+      </form>
+
+      <div class="lower">
+        <div id="result" class="result" hidden aria-live="polite"></div>
+
+        <p id="load-error" class="load-error" hidden>
+          Unable to load the guest list. Please try again later.
+        </p>
+
+        <footer class="footer">
+          <p class="date">24 · 10 · 2026</p>
+        </footer>
+      </div>
+    </main>
+    <script src="js/main.js"></script>
+  </body>
+</html>
