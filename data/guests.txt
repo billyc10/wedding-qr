@@ -206,6 +206,7 @@ Van Thong Nguyen,Table 21
 Thi Ben Nguyen,Table 21
 Thi Bich Van Nguyen,Table 21
 Peter Hartshorne,Table 21
+Ryan Hartshorne,Table 21
 Rong Nguyen,Table 21
 Hayden Nguyen,Table 22
 Kristina Rubio,Table 22
@@ -235,7 +236,7 @@ Brock Nguyen,Table 24
 Jet Nguyen,Table 24
 Jayden Nguyen,Table 25
 Olivia Nguyen,Table 25
-Vanessa Nguyen,Table 25
+Vanessa Bao Chau Nguyen,Table 25
 Vincent Nguyen,Table 25
 Xander Tran,Table 25
 Autumn Tran,Table 25
