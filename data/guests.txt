@@ -94,8 +94,6 @@ Nina Kostovski,Table 9
 Leo Sebastian,Table 9
 Rakshita Saharan,Table 9
 Steven Tran,Table 10
-Nathan Tse,Table 10
-Monica Lim,Table 10
 Tiffany Zhao,Table 10
 Glen Zheng,Table 10
 David Nguyen,Table 10
@@ -109,7 +107,8 @@ Tin Nguyen,Table 11
 Thao Le,Table 11
 Cuong Nguyen,Table 11
 Thao Luu,Table 11
-Hieu Nguyen,Table 11
+Son Ho,Table 11
+Hoa Ton,Table 11
 Dat Pham,Table 11
 Nguyen Pham,Table 11
 Po Goh,Table 12
@@ -124,8 +123,7 @@ Kathy Nguyen,Table 12
 Lara O'Brien,Table 12
 Thang Nguyen,Table 13
 Thao Dang,Table 13
-Son Ho,Table 13
-Qua Ton,Table 13
+Hieu Nguyen,Table 13
 Nhien Nguyen,Table 13
 Huy Pham,Table 13
 Tu Do,Table 13
@@ -189,7 +187,6 @@ Aldrin Capistrano,Table 19
 Alicia Luong,Table 19
 Jane Luong,Table 19
 Skye Nguyen,Table 19
-Tam's Friend,Table 19
 Shane Tran,Table 20
 Aprail Siblagan,Table 20
 Taj Nguyen,Table 20
@@ -274,3 +271,11 @@ Nam Phan,Table 29
 Hue Truong,Table 29
 Branco Pasara,Table 29
 Hoan Dan,Table 29
+Dominic (Vendor),Table 28
+Luis (Vendor),Table 28
+Bianca (Vendor),Table 28
+Lynne (Vendor),Table 28
+Bruce (Vendor),Table 28
+Tony (Vendor),Table 28
+Tandy (Vendor),Table 28
+Andrew (Vendor),Table 28
