@@ -6,6 +6,7 @@ Le Ling Chen,Table 1
 Yuan Ju Chen,Table 1
 Daniel Chen,Table 1
 Thanh Nguyen,Table 1
+Tina Mathoor,Table 1
 Owen Kaziavin,Table 1
 Natasha Kaziavin,Table 1
 Tat Ming Kwan,Table 1
@@ -33,7 +34,7 @@ Maggie Pham,Table 3
 Kiet Nguyen,Table 3
 Le Yen Le Thanh,Table 3
 Chuong Tran,Table 3
-Tram Vu,Table 3
+Nicky Vu,Table 3
 Shirley Xu,Table 4
 Khanh Nguyen,Table 4
 Stacey Park,Table 4
@@ -67,6 +68,7 @@ Anthony Nguyen,Table 7
 Salisa Singh,Table 7
 Simiran Singh,Table 7
 Grace Royal,Table 7
+Ben Johnson,Table 7
 Robert McNamara,Table 7
 Russell Barker,Table 7
 Samuel Arandez,Table 7
